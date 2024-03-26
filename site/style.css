@@ -1,0 +1,27 @@
+/*
+CORES DO SISTEMA: 
+#232526
+#BACBD9
+#7ABFB3
+#0ABF8C
+#F2F2F2
+*/
+body {
+  /* Ajuste conforme a altura da barra de navegação */
+  background-color: #F2F2F2;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.sidenav {
+  background-color: #232526;
+}
+
+.btn-primary {
+  background-color: #0abf8c;
+  border-color: #232526;
+}
+
+.btn:hover {
+  background-color:  #0AA67A;
+  border-color: #232526;
+}
